@@ -1,4 +1,4 @@
-# Spark-Streaming
+# Scala-Spark-Streaming
 
 ## 0.- Installation & Setup
 
