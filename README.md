@@ -4,6 +4,16 @@
 
 <details><summary>Show 0.- Installation & Setup</summary>
 <p>
+  
+### Intalling JDK 8
+
+<details><summary>Show Installing Spark</summary>
+<p>
+  
+- Download and Install - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  
+</p>
+</details>
 
 ### Installing Spark
 
