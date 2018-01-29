@@ -49,3 +49,7 @@ nano log4j.properties.template
 
 </p>
 </details>
+
+## References
+
+https://www.udemy.com/taming-big-data-with-spark-streaming-hands-on/
