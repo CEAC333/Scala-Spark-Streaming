@@ -1,6 +1,6 @@
 # Scala-Spark-Streaming
 
-## 0.- Installation & Setup
+## 1.- Installation & Setup
 
 <details><summary>Show 0.- Installation & Setup</summary>
 <p>
@@ -55,7 +55,16 @@ nano log4j.properties.template
 </p>
 </details>
 
+### First Spark Streaming App 
 
+<details><summary>Show First Spark Streaming App</summary>
+<p>
+  
+- Create a Twitter Developer Account and Sign in - https://apps.twitter.com/
+- Create New App - Name:"SparkStreamingExamples", Descriptioon:"Playing with Spark Streaming" > Yes, I agree > Create your Twitter application
+
+</p>
+</details>
 
 </p>
 </details>
