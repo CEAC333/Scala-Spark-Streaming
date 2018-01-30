@@ -76,7 +76,7 @@ accessTokenSecret XXX-someawesome-key
 - Right Click "SparkStreamingExamples" > New > Package > Name:"com.demo.sparkstreaming"
 - Right Click "SparkStreamingExamples" > Properties > Java Build Path > Libraries > Add External JARS... > Select all in spark/jars > Add External JARS... > Select "twitter4j-core...jar", "twitter4j-stream...jar", "dstream-twitter...jar"
 - Right Click "com.demo.sparkstreaming" > Import > General > File System > Next > From directory:"Choose dir with PrintTweets.scala  & Utilities.scala files" > Finish
-- Right Click "SparkStreamingExamples" > Properties > Scala Compiler > Check - Use Project Settings > Scala Installation: "Fixed Scala Installation: 2.11.8 (built-in)" > OK > OK
+- Right Click "SparkStreamingExamples" > Properties > Scala Compiler > Check - Use Project Settings > Scala Installation: "Fixed Scala Installation: 2.11.X (built-in)" > OK > OK
 
 - Run > Run Configurations > Scala Application > Name:"PrintTweets", Main:"com.demo.sparkstreaming.PrintTweets" > Run
 
