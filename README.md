@@ -5,7 +5,7 @@
 <details><summary>Show 1.- Installation & Setup</summary>
 <p>
   
-### Intalling JDK 8
+### Installing JDK 8
 
 <details><summary>Show Installing JDK 8</summary>
 <p>
