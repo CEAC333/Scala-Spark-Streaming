@@ -2,7 +2,7 @@
 
 ## 1.- Installation & Setup
 
-<details><summary>Show 0.- Installation & Setup</summary>
+<details><summary>Show 1.- Installation & Setup</summary>
 <p>
   
 ### Intalling JDK 8
