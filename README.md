@@ -7,7 +7,7 @@
   
 ### Intalling JDK 8
 
-<details><summary>Show Installing Spark</summary>
+<details><summary>Show Installing JDK 8</summary>
 <p>
   
 - Download and Install - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
